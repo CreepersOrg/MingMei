@@ -79,6 +79,7 @@
     <Compile Include="A线Model\NodeDianjiao.cs" />
     <Compile Include="A线Model\NodePalletBind.cs" />
     <Compile Include="A线Model\NodeScrewLock.cs" />
+    <Compile Include="A线Model\NodeUpDownMachine.cs" />
     <Compile Include="A线Model\NodeUV.cs" />
     <Compile Include="B线Model\NodeLaserClean.cs" />
     <Compile Include="B线Model\NodeWeld.cs" />
